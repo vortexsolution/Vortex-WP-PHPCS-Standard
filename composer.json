@@ -3,7 +3,7 @@
   "description": "Our WordPress standards with a PHP-CS validator",
   "type": "phpcodesniffer-standard",
   "require": {
-    "wp-coding-standards/wpcs": "^2.1",
+    "wp-coding-standards/wpcs": "^2.2",
     "dealerdirect/phpcodesniffer-composer-installer": "^0.5.0"
   },
   "authors": [
