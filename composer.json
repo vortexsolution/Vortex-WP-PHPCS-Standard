@@ -1,4 +1,5 @@
 {
+  "version": "0.1.0",
   "name": "vortexsolution/phpcs-wp",
   "description": "Our WordPress standards with a PHP-CS validator",
   "type": "phpcodesniffer-standard",
